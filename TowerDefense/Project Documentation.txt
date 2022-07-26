@@ -1,0 +1,13 @@
+This project present simple Tower Defence console game. Project is in progress and don't have some functionality yet. In current state of this game it is possible to watch presentatnion
+of 3 different maps. Prestntation shows one wave of attackers who are moving across the map to player base.
+
+Files description:
+
+	* MainLoop.h/.cpp - includes body of main game loop. In theese files you can find the most important stages of whole game.
+	* Menu.h/.cpp - 
+	* Map.h/.cpp - big class, which is holding data related with map for example: map overlay, map data, waves of attackers, deffenders vectors etc.
+	* Vector.h - namespace of methods which helps with vector actions  
+	* Path.h - namespace of methods related with attackers path
+	* Attacker.h - class which holds attackers parameters, for example: power, delay in with attacker will occur on map
+	* Wave.h/.cpp - class which holds vector of attackers, and methods which helps with actions on attackers objects
+	* Point.h/.cpp - class which helps with point actions (used in vectors and 2D actions)

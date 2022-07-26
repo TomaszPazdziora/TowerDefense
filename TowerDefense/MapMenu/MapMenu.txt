@@ -1,0 +1,15 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                         %%
+%%      & CHOOSE MAP &     %%
+%%       -----------       %%
+%% !  Snake Trail          %%
+%% -  Dark Maze            %%
+%% @  Round Sentry         %%
+%%       -----------       %%
+%%                         %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	NAVIGATION: 
+	  W - UP
+	  S - DOWN
+      SPACE - CHOOSE
