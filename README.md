@@ -45,3 +45,12 @@ E<<<<<<<<<<<<<<<<<%
 ```
 The picture shows correct .txt map file of higher presented map.
 
+## To do:
+- Class defender
+- Code responsible for taking damage when the attacker passes the defender
+- Code responsible for setting defenders 
+- More waves and difficulty levels
+- Player's HP and resources
+- Class „menu” correction 
+- Update MainLoop::run() by new improvements
+
