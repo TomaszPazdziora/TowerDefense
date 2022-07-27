@@ -1,4 +1,4 @@
-# Tower Defense – consol game
+# Tower Defense – console game
 The game starts in the main menu where the player can choose one option. The project is in progress and has not had some functionality yet. Currently, it is possible to watch the presentation of 3 different maps. The demonstration presents one wave of attackers who move across the map to the player base. If the player wants to test the application now, he/she should choose the option "Present Map" and then pick the map.
 
 ## Presentation mode
@@ -19,7 +19,7 @@ The picture shows an example of presentation mode. Numbers symbolize attackers a
 
 ## Creating maps 
 
-Txt map files are written in strictly defined rules. Spawn points are connected with the player base by a path. Every map starts by: ‘,’ or ‘6’ or ‘v’ or ‘.’ character. The first path character depends on the direction in which the path will go. 
+Txt map files are written in strictly defined rules. Spawn points are connected with the player base by a path. Every map starts by: ',' or '6' or 'v' or '.' character. The first path character depends on the direction in which the path will go. 
 
 - , -  the path starts in the left direction 
 -	6 -  the path starts up 
@@ -43,7 +43,7 @@ It is necessary to connect the beginning of the path with the ‘E’ character.
 E<<<<<<<<<<<<<<<<<%
 %%%%%%%%%%%%%%%%%%%
 ```
-The picture shows correct .txt map file of higher presented map.
+The picture shows correct .txt map file of the higher presented map.
 
 ## To do:
 - Class defender
@@ -51,6 +51,6 @@ The picture shows correct .txt map file of higher presented map.
 - Code responsible for setting defenders 
 - More waves and difficulty levels
 - Player's HP and resources
-- Class „menu” correction 
+- Class "menu" correction 
 - Update MainLoop::run() by new improvements
 
